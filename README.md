@@ -11,7 +11,7 @@ In the base directory run the make command.
 
 # Preview
 
-<img src="" width="250" height="250">
+<img src="https://raw.githubusercontent.com/callummarshall9/OrbitSimulation/master/orbit.png" width="250" height="250">
 
 # Usage
 
